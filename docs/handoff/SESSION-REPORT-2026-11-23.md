@@ -1,10 +1,9 @@
 # Session report: 2026-11-23
 
-The Claude Code sessions listed below were archived on 2026-11-23 to keep the Claude app responsive. This file records where each one left off, so a new session can pick up the work.
+The Claude Code sessions listed below were archived and then deleted on 2026-11-23 to keep the Claude app responsive. This file records where each one left off, so a new session can pick up the work.
 
 Read this with `HANDOFF.md` (the project brief and its Status section). If something here conflicts with `HANDOFF.md`, `HANDOFF.md` and the git history are more current.
 
-To reopen a session, go to the Claude app's sidebar → Archived, or use the session link while the app is installed.
 
 ## Open items
 
@@ -35,7 +34,7 @@ Open pull requests:
 ### POMP head-code release stylesheet fix
 
 - **Active:** 2026-11-03 → 2026-11-05 20:25
-- **Session:** [local_4e932490-9062-4e6f-849e-4c3310f18415](claude://claude.ai/epitaxy/local_4e932490-9062-4e6f-849e-4c3310f18415) (archived)
+- **Session:** `local_4e932490-9062-4e6f-849e-4c3310f18415` (deleted 2026-11-23)
 - **PR:** [brandvm/pomp#2](https://github.com/brandvm/pomp/pull/2)
 - **PR:** [brandvm/wf-pomp#3](https://github.com/brandvm/wf-pomp/pull/3)
 - **PR:** [brandvm/wf-pomp#4](https://github.com/brandvm/wf-pomp/pull/4)
@@ -49,7 +48,7 @@ Open pull requests:
 ### btw: can you update the figma file?https://www.figma.com/design/...
 
 - **Active:** 2026-11-03 → 2026-11-05 19:05
-- **Session:** [local_15b8b865-20ec-4ae5-955d-b717f4388206](claude://claude.ai/epitaxy/local_15b8b865-20ec-4ae5-955d-b717f4388206) (archived)
+- **Session:** `local_15b8b865-20ec-4ae5-955d-b717f4388206` (deleted 2026-11-23)
 - **Started with:** "<pasted_content id="3966"> Install the head-code fix for POMP's live site: Webflow should load the release stylesheet in <head> instead of painting first with the staging one. Use the webflow-audit skill and only the webflow-pomp-c MCP server, never the account-wide claude.ai Webflow connector. The …"
 - **Where it ended:** The 5 Nov update now lives on its own new page, "03 · Changes — 2026-11-05".
 - **Recent progress:**
